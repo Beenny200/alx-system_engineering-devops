@@ -1,1 +1,2 @@
-Script creates an alias
+#!/bin/bash
+script prints hello user
