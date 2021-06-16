@@ -1,1 +1,1 @@
-Prints Hello,World to the standard output
+Script prints a confused smiley
